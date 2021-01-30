@@ -23,8 +23,12 @@ found 1 low severity vulnerability
 
 ### Links
 
-[BlockChain demo](https://andersbrownworth.com/blockchain/)
-[ETH Blocktime](https://etherscan.io/chart/blocktime)
-[vscode-solidity](https://github.com/juanfranblanco/vscode-solidity)
-[remix IDE](http://remix.ethereum.org/)
-[BIP-39](https://iancoleman.io/bip39/)
+* [BlockChain demo](https://andersbrownworth.com/blockchain/)
+
+* [ETH Blocktime](https://etherscan.io/chart/blocktime)
+
+* [vscode-solidity](https://github.com/juanfranblanco/vscode-solidity)
+
+* [remix IDE](http://remix.ethereum.org/)
+
+* [BIP-39](https://iancoleman.io/bip39/)
