@@ -69,6 +69,43 @@ found 2 low severity vulnerabilities
 
 ![Alt text](/images/mocha.png "Mocha")
 
+### Mocha Tests 
+
+```javascript
+// Mocha - Testing Framework 
+
+class Car {
+    park(){
+        return 'parked';
+    }
+
+    drive() {
+        return 'vroom';
+    }
+}
+
+let car;
+
+beforeEach(() => {
+    car = new Car();
+});
+
+describe('Naveen-Car' ,() => {
+
+    it('can park', () => {
+        assert.strictEqual(car.park(), 'parked');
+        //assert.strictEqual(car.park(), 'stopped');
+    });
+
+    it('can drive', () => {
+        assert.strictEqual(car.drive(), 'vroom');
+        //assert.strictEqual(car.park(), 'stopped');
+    });
+
+});
+
+```
+
 ### Links
 
 * [BlockChain demo](https://andersbrownworth.com/blockchain/)
