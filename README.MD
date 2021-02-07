@@ -105,6 +105,9 @@ describe('Naveen-Car' ,() => {
 });
 
 ```
+### Mocha Test Framework
+
+![Alt text](/images/mocha-test.png "Mocha Contract - Test")
 
 ### Links
 
