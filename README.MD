@@ -65,6 +65,10 @@ found 2 low severity vulnerabilities
 
 ![Alt text](/images/web3.png "Web3")
 
+### Mocha Test Framework
+
+![Alt text](/images/mocha.png "Mocha")
+
 ### Links
 
 * [BlockChain demo](https://andersbrownworth.com/blockchain/)
